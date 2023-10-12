@@ -4,7 +4,7 @@
 Estudo de caso para aplicação dos conceitos de MLOps pelo nosso grupo de leitura.
 
 ## Limitações
-Não podemos agregar e processar dados em tempo real. Por conta disso, as previsões serão e modo batch.
+Não podemos agregar e processar dados em tempo real. Por conta disso, as previsões serão em modo batch.
 
 ## Solução
 Previsão de demanda de energia à qualquer granularidade. Oferecendo uma plataforma de MLOps que permite criar, experimentar e monitorar previsões de séries temporais de demanda de energia  para múltiplos clientes.
