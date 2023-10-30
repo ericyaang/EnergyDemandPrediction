@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "energyforecast-mlops"
+version = "0.1.0"
+description = ""
+authors = ["wagnerjorge <wagnerjorgesilva@hotmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+duckdb = "^0.9.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
